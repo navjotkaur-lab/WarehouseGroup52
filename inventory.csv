@@ -1,0 +1,41 @@
+ItemID,Description,Category,Stock
+101,"Wireless Mouse","Electronics",50
+102,"Mechanical Keyboard","Electronics",30
+103,"USB-C Hub","Electronics",25
+104,"27-inch Monitor","Electronics",10
+105,"Webcam HD","Electronics",40
+106,"Noise-Canceling Headphones","Electronics",15
+107,"Portable SSD 1TB","Electronics",35
+108,"Laptop Stand","Electronics",20
+201,"The C Programming Language","Books",12
+202,"Operating System Concepts","Books",8
+203,"Design Patterns","Books",10
+204,"Clean Code","Books",15
+205,"Introduction to Algorithms","Books",6
+206,"The Pragmatic Programmer","Books",9
+207,"Structure and Interpretation of Computer Programs","Books",5
+208,"Computer Networks","Books",7
+301,"Cotton T-Shirt (M)","Clothing",100
+302,"Cotton T-Shirt (L)","Clothing",80
+303,"Denim Jeans (32)","Clothing",45
+304,"Denim Jeans (34)","Clothing",40
+305,"Hoodie (M)","Clothing",60
+306,"Hoodie (L)","Clothing",55
+307,"Running Shoes (42)","Clothing",25
+308,"Running Shoes (44)","Clothing",20
+401,"Coffee Beans 1kg","Food",200
+402,"Green Tea Box","Food",150
+403,"Dark Chocolate Bar","Food",300
+404,"Protein Bars (12-pack)","Food",75
+405,"Olive Oil 500ml","Food",90
+406,"Pasta 500g","Food",250
+407,"Rice 1kg","Food",180
+408,"Honey 350g","Food",60
+501,"Desk Lamp","Home",35
+502,"Wireless Charger","Home",45
+503,"Bluetooth Speaker","Home",30
+504,"Smart Plug","Home",70
+505,"Water Bottle 750ml","Home",120
+506,"Backpack","Home",40
+507,"Notebook A5 (3-pack)","Home",200
+508,"Whiteboard Markers (set)","Home",85
